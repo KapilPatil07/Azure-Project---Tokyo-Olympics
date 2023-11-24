@@ -1,0 +1,24 @@
+{
+    "name": "EntriesGenderADLSGen2DataSet",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "ADLSGen2CommonLinkedServiceSink",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobFSLocation",
+                "fileName": "entriesgender.csv",
+                "folderPath": "rawData",
+                "fileSystem": "tokyoolympicsdatasets"
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    }
+}

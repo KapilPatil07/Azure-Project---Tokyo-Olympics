@@ -1,0 +1,51 @@
+
+
+Olympic Data Analytics | End-To-End Azure Data Engineering Project :
+====================================================================
+Video Link - https://lnkd.in/d3aM7Age
+
+Here's what you will learn:
+✅ Extract Data from APIs
+✅ Learn Azure Services DataBricks, DataFactory, and Synapse Analytics
+✅ Writing Spark Code
+✅ SQL queries for analysis
+
+
+video link :
+============
+https://www.youtube.com/watch?v=IaA9YNlg5hM
+
+
+
+
+github link :
+==============
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazh5WEQ4ODBpRWI3X05OcG4tMWtGWVUtRXF6d3xBQ3Jtc0tsa1dXdGRFWVoxY0xNWDNEb1BpVU9XczhXVGJwS2VGMnFCeGwyZXNwc2w3OF9MVFltVUpLcTVFT29KQzZWY0g4UFpWNF9mcmg3Zzc4S1llVDVTNnJnZC1HanlRQlhJd3RSOWFOMmtPQmtLSUg1NTBKOA&q=https%3A%2F%2Fgithub.com%2Fdarshilparmar%2Ftokyo-olympic-azure-data-engineering-project&v=IaA9YNlg5hM
+
+
+
+kaggle dataset link:
+===================
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazh3NkdON0dLanJySG1BUllBNkc0WUVmZ3AwQXxBQ3Jtc0ttN3NROFFVUGRFejJWaVhiLXBJWnR0NWliREgyOTdWUU1Ua0hfMFYwSHRDNEZOUUxOQ3JkX0lCM3N3bHNXM0lJWGZrM2prQjlITHpTdGViZ2RkQXU1N0xiY0R0VWRCT3M3WjJVMXR4VHg5ckpuTWU5OA&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Farjunprasadsarkhel%2F2021-olympics-in-tokyo&v=IaA9YNlg5hM
+
+
+
+
+
+
+
+Services Used:
+===============
+
+Data Source: Kaggle / Github 
+
+Storage Account: ADLS Gen2
+
+Azure Data Factory: for Ingesting the data and For scheduling the pipeline
+
+Azure Databricks: For transformation of data
+
+Azure Synapse Analytics

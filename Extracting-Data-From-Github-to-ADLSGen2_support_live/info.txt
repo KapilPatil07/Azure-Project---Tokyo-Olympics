@@ -1,0 +1,6 @@
+selected resource name:		Extracting-Data-From-Github-to-ADLSGen2
+selected resource type:		pipeline
+factory name:			tokyo-olympic-project-df
+factory location:		centralindia
+subscription id:		efa873fd-aa4c-4be0-8f74-48282225ed4c
+time of download (UTC):		Wed, 23 Aug 2023 09:18:11 GMT

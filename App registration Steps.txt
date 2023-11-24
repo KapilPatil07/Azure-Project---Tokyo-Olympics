@@ -1,0 +1,34 @@
+
+App registrations :
+==================
+
+Provide the name and just create the app.
+no need to select any other option.
+
+
+Important things:
+================
+
+Application (client) ID :
+1774dd35-b07a-47cd-8f39-9fbb2da02c53
+
+
+Directory (tenant) ID
+4f2f942f-d83b-4add-8efe-555a143e833f
+
+
+
+
+And then in the left panel we can find 
+certificates and secrets 
+
+Here we need to create the secret.
+
+click on create a new secret and provide some name.
+and click on add.
+
+The secret will get created.
+
+we need secret value so just copy it.
+
+Secret value : TFf8Q~46UTeTI.vBHkutJF0K1q5CsZM3TVAYRada

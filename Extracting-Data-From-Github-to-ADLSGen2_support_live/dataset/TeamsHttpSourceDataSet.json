@@ -1,0 +1,21 @@
+{
+    "name": "TeamsHttpSourceDataSet",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "TeamsSourceLinkedService",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "HttpServerLocation"
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    }
+}

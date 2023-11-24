@@ -1,0 +1,21 @@
+{
+    "name": "MedalsHttpSourceDataSet",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "MedalsSourceLinkedService",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "HttpServerLocation"
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    }
+}
