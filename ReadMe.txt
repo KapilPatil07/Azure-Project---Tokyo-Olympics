@@ -39,7 +39,7 @@ Summary :
 - So in this project, we have extracted the data from data source i.e Github/Kaggle 
   in our case.
 
-
+- Using ADF pipeline we loaded the raw data into adls gen2
 
 
   
